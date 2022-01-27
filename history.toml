@@ -1,1 +1,14 @@
 items = []
+ickname = "PC"
+mac_address = "00-D8-61-C4-06-91"
+port = 9
+
+[[items]]
+nickname = "PC"
+mac_address = "00-D2-61-C4-06-91"
+port = 9
+
+[[items]]
+nickname = "sdf"
+mac_address = "00-D2-61-C4-06-92"
+port = 2
